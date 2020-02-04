@@ -1,3 +1,8 @@
+To clone the project with submodules use following comand
+```
+git clone --recurse-submodules git@github.com:rednavis/kafka-spring-boot-demo.git
+```
+
 Run these commands to create a network and run Kafka and Zookeeper in docker containers.
 
 ```
