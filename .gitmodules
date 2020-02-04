@@ -1,0 +1,9 @@
+[submodule "message-producer"]
+	path = message-producer
+	url = https://github.com/rednavis/message-producer
+[submodule "message-processor"]
+	path = message-processor
+	url = https://github.com/rednavis/message-processor
+[submodule "message-consumer"]
+	path = message-consumer
+	url = https://github.com/rednavis/message-consumer
