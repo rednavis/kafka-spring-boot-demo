@@ -1,3 +1,16 @@
+<h2>This is a project to demonstrate a basic Kafka-Spring Boot integration.</h2>
+
+Submodules pipeline status:
+* Message Producer [![Build Status](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_apis/build/status/rednavis.message-producer?branchName=master)](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_build/latest?definitionId=3&branchName=master)
+* Message Processor [![Build Status](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_apis/build/status/rednavis.message-processor?branchName=master)](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_build/latest?definitionId=2&branchName=master)
+* Message Consumer [![Build Status](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_apis/build/status/rednavis.message-consumer?branchName=master)](https://dev.azure.com/yaraslauliaonau/kafka-spring-boot-demo%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
+<h3>Initial application structure and flow</h3>
+![Image of Flow]
+(https://i.ibb.co/F3C94FG/Kafka-Flow.png)
+
+<h3>How to start project</h3>
+
 To clone the project with submodules use following comand
 ```
 git clone --recurse-submodules git@github.com:rednavis/kafka-spring-boot-demo.git
