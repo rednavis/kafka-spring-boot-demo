@@ -43,4 +43,4 @@ docker start kafka
 
 <h3>Swagger</h3>
 
-After starting **message-producer** you can find Swagger UI page [here](localhost:57300/demo/api/swagger-ui.html)
+After starting **message-producer** you can find Swagger UI page at `localhost:57300/demo/api/swagger-ui.html`
